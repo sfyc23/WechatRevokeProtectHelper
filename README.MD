@@ -16,6 +16,7 @@
 
 
 
+
 ## 微信体验群 && 交流群
 请加 wx: **sfyc1314** 机器人为好友，验证信息写填写：Github，机器人会自动通过。  
 通过后回复：「加群」，会自动拉你入群。  
@@ -38,7 +39,7 @@
 ## LICENSE
 [MIT License](https://github.com/sfyc23/WechatAddGroupHelper/blob/master/LICENSE)
 
-
+参考文章：https://juejin.im/post/5b61b01f6fb9a04fba6e97ba
 
 
 
