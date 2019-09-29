@@ -15,7 +15,10 @@
 **itchat 依赖于网页版微信进行开发，所以首先得确定你的微信能登录网页版微信**：<https://wx.qq.com/>。
 
 
-
+其它通过 itchat 实现的项目推荐：
+微信防撤回助手：https://github.com/sfyc23/WechatRevokeProtectHelper
+微信加群助手：https://github.com/sfyc23/WechatAddGroupHelper
+微信机器人与群功能：https://github.com/sfyc23/EverydayWechat
 
 ## 微信体验群 && 交流群
 请加 wx: **sfyc1314** 机器人为好友，验证信息写填写：Github，机器人会自动通过。  
