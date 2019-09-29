@@ -1,6 +1,5 @@
+![python_vesion](https://img.shields.io/badge/Python-3.5%2B-green.svg)   [![itchat_vesion](https://img.shields.io/badge/Itchat-1.3.10-brightgreen.svg)](https://github.com/littlecodersh/ItChat)   [![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/sfyc23/WechatRevokeProtectHelper/blob/master/LICENSE)               [![weibo](https://img.shields.io/badge/weibo-@sfyc23-red.svg)](https://www.weibo.com/sfyc23)     [![微信群](http://vlog.sfyc23.xyz/wechat_everyday/wxgroup_logo.png?imageView2/0/w/60/h/20)](#微信交流群)
 # 基于 itchat 的微信防撤回助手
-
-
 
 实现的功能：
 
@@ -15,10 +14,11 @@
 **itchat 依赖于网页版微信进行开发，所以首先得确定你的微信能登录网页版微信**：<https://wx.qq.com/>。
 
 
-其它通过 itchat 实现的项目推荐：
-微信防撤回助手：https://github.com/sfyc23/WechatRevokeProtectHelper
-微信加群助手：https://github.com/sfyc23/WechatAddGroupHelper
-微信机器人与群功能：https://github.com/sfyc23/EverydayWechat
+其它通过 itchat 实现的项目推荐：  
+微信防撤回助手：https://github.com/sfyc23/WechatRevokeProtectHelper  
+微信加群助手：https://github.com/sfyc23/WechatAddGroupHelper  
+微信机器人与群功能：https://github.com/sfyc23/EverydayWechat    
+欢迎大家 star。
 
 ## 微信体验群 && 交流群
 请加 wx: **sfyc1314** 机器人为好友，验证信息写填写：Github，机器人会自动通过。  
@@ -40,7 +40,7 @@
 
 
 ## LICENSE
-[MIT License](https://github.com/sfyc23/WechatAddGroupHelper/blob/master/LICENSE)
+[MIT License](https://github.com/sfyc23/WechatRevokeProtectHelper/blob/master/LICENSE)
 
 参考文章：https://juejin.im/post/5b61b01f6fb9a04fba6e97ba
 
